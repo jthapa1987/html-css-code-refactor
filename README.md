@@ -10,7 +10,7 @@ Built With :
 
 Website :
 
-http://127.0.0.1:5500/develop/index.html 
+https://jthapa1987.github.io/html-css-code-refactor/
 
 Contribution :
 
